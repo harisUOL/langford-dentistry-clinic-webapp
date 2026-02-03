@@ -8,7 +8,7 @@ Langford Dentistry showcases treatments, bookings, clinic information, and a pre
 ![Alt text](Background.png)
 
 --- 
-
+ 
 ## ✨ Features
 
 - **🏥 Modern Clinic Homepage** — Hero section, services, testimonials, and gallery  
